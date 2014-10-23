@@ -22,7 +22,6 @@ and open the template in the editor.
             }
         }  else HIDDEN    
         ?>
-        <!--juancaa-->
         <form method=post action=ejerc05-04.php>
             Introduzca la cantidad: <input type=text name=cantidad size=10>
             <input type=submit name=ok value=enviar>
